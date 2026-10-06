@@ -14,6 +14,7 @@ Technologies, where I build dashboards and automations for local businesses.
 | [Redline Motor Club](https://github.com/Bchiate/redline-shopify-store) | A Shopify store for a concept streetwear brand: 177 SKUs on one written standard, collections that maintain themselves from tags and inventory, and a tool that audits the catalog | Shopify, Admin GraphQL, Python |
 | [Lead Finder](https://github.com/Bchiate/local-business-lead-finder) | Finds local businesses whose websites are dead, parked or broken and writes each one a two-page PDF audit | Cloudflare Pages Functions, Postgres, JavaScript |
 | [Legacy Tape firmware](https://github.com/Bchiate/legacy-tape-firmware) | Firmware for a cassette-style recorder that lets older adults record their stories by pressing REC | ESP32-S3, FreeRTOS, LVGL, C++ |
+| [Legacy Tape app](https://github.com/Bchiate/legacy-tape-app) | The recorder's iPhone app and cloud backend: QR and Bluetooth pairing, streamed audio turned into chapters, transcription on the phone | Swift, React, Supabase, Deno |
 | [PlantWatch](https://github.com/Bchiate/plantwatch) | Soil-moisture monitoring with watering advice that accounts for the weather forecast | Supabase, Deno, PWA, SwiftUI |
 | [WebRTC Poker](https://github.com/Bchiate/webrtc-poker) | Peer-to-peer Texas Hold'em in the browser, with a host-authoritative engine covered by tests | TypeScript, WebRTC, Vitest |
 | [AssignDash](https://github.com/Bchiate/assigndash) | Turns course syllabi into an assignment dashboard | Node, Express, OpenAI, Supabase |
@@ -26,6 +27,7 @@ Also: [Download Organizer](https://github.com/Bchiate/chrome-download-organizer)
 **Web:** React, Astro, Node/Express, Tailwind, Vite<br>
 **Data and cloud:** Postgres/Supabase, Cloudflare Pages and Workers<br>
 **Commerce:** Shopify Admin GraphQL API, Online Store 2.0 themes<br>
+**Mobile:** SwiftUI, CoreBluetooth, AVFoundation<br>
 **Embedded:** ESP32-S3, FreeRTOS, LVGL, Bluetooth LE
 
 <!-- Personalize: add a "### Contact" section here with your LinkedIn, email or personal site -->
