@@ -18,6 +18,8 @@ Technologies, where I build dashboards and automations for local businesses.
 | [WebRTC Poker](https://github.com/Bchiate/webrtc-poker) | Peer-to-peer Texas Hold'em in the browser, with a host-authoritative engine covered by tests | TypeScript, WebRTC, Vitest |
 | [AssignDash](https://github.com/Bchiate/assigndash) | Turns course syllabi into an assignment dashboard | Node, Express, OpenAI, Supabase |
 
+Also: [Download Organizer](https://github.com/Bchiate/chrome-download-organizer), a Chrome extension that files downloads into folders by site or by Canvas course.
+
 ### Tools
 
 **Languages:** TypeScript, JavaScript, Python, C/C++, Swift, SQL<br>
