@@ -19,15 +19,19 @@ Technologies, where I build dashboards and automations for local businesses.
 | [WebRTC Poker](https://github.com/Bchiate/webrtc-poker) | Peer-to-peer Texas Hold'em in the browser, with a host-authoritative engine covered by tests | TypeScript, WebRTC, Vitest |
 | [AssignDash](https://github.com/Bchiate/assigndash) | Turns course syllabi into an assignment dashboard | Node, Express, OpenAI, Supabase |
 
-Also: [Download Organizer](https://github.com/Bchiate/chrome-download-organizer), a Chrome extension that files downloads into folders by site or by Canvas course.
+Also:
+
+- [Mixed Reality Legal Simulator](https://github.com/Bchiate/Meta-XR-legal-simulator): a passthrough game for Meta Quest 3 where a home intrusion plays out in your own room and every use of force is judged against a model of California self-defense law. Unity 6, C#, Meta XR SDK, MR Utility Kit.
+- [Download Organizer](https://github.com/Bchiate/chrome-download-organizer): a Chrome extension that files downloads into folders by site or by Canvas course.
 
 ### Tools
 
-**Languages:** TypeScript, JavaScript, Python, C/C++, Swift, SQL<br>
+**Languages:** TypeScript, JavaScript, Python, C/C++, C#, Swift, SQL<br>
 **Web:** React, Astro, Node/Express, Tailwind, Vite<br>
 **Data and cloud:** Postgres/Supabase, Cloudflare Pages and Workers<br>
 **Commerce:** Shopify Admin GraphQL API, Online Store 2.0 themes<br>
 **Mobile:** SwiftUI, CoreBluetooth, AVFoundation<br>
+**XR:** Unity 6, Meta XR SDK, MR Utility Kit, OpenXR<br>
 **Embedded:** ESP32-S3, FreeRTOS, LVGL, Bluetooth LE
 
 <!-- Personalize: add a "### Contact" section here with your LinkedIn, email or personal site -->
